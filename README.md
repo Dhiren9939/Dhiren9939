@@ -5,7 +5,7 @@ B.Tech student at Dwarkadas J. Sanghvi College of Engineering (CGPA: 9.16). I bu
 
 - 🛠️ **What I do:** Build REST APIs, handle JWT authentication, and manage data with SQL/NoSQL.
 - 🚀 **Learning:** Moving into **AWS** and **CI/CD** to automate my deployments.
-- 🏗️ **Interest:** Exploring **System Design** and **Docker** to build better, scalable apps.
+- 🏗️ **Interest:** Exploring **System Design** to build better, scalable apps.
 - ⚡ **Competitive Programming:** 400+ LeetCode problems solved & 2-star CodeChef.
 
 ---
@@ -15,7 +15,7 @@ B.Tech student at Dwarkadas J. Sanghvi College of Engineering (CGPA: 9.16). I bu
 | Type | Tools |
 | :--- | :--- |
 | **Backend** | Java (Spring Boot), Node.js, Express.js |
-| **Frontend** | React, TypeScript, Tailwind CSS |
+| **Frontend** | React, JavaScript, Tailwind CSS |
 | **Databases** | MySQL, MongoDB |
 | **Tools** | Docker, Git, Linux, Postman, Maven |
 
@@ -28,4 +28,9 @@ B.Tech student at Dwarkadas J. Sanghvi College of Engineering (CGPA: 9.16). I bu
 * **CLI Attendance Tracker:** Python-based tool using MySQL for student and subject management.
 
 ---
-📫 **Contact:** [dhiren.nmf.1@gmail.com](mailto:dhiren.nmf.1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dhiren-mandaliya-833328300/)
+📫 **Connnections:** 
+- Email: [dhiren.nmf.1@gmail.com](mailto:dhiren.nmf.1@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/dhiren-mandaliya-833328300/
+- Leetcode: https://leetcode.com/u/dhiren9939/
+- Codeforces: https://codeforces.com/profile/dhiren.nmf.1/
+- CodeChef: https://www.codechef.com/users/dhiren9939/
