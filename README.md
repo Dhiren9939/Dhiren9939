@@ -28,4 +28,4 @@ B.Tech student at Dwarkadas J. Sanghvi College of Engineering (CGPA: 9.16). I bu
 * **CLI Attendance Tracker:** Python-based tool using MySQL for student and subject management.
 
 ---
-📫 **Contact:** [dhiren.nmf.1@gmail.com](mailto:dhiren.nmf.1@gmail.com) | [LinkedIn](YOUR_LINKEDIN_URL)
+📫 **Contact:** [dhiren.nmf.1@gmail.com](mailto:dhiren.nmf.1@gmail.com) | [LinkedIn](https://www.linkedin.com/in/dhiren-mandaliya-833328300/)
