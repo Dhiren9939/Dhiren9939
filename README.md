@@ -1,36 +1,37 @@
-# Hi, I'm Dhiren Mandaliya 👋
+# Dhiren Mandaliya
 
-### 💻 Software Engineer 
-B.Tech student at Dwarkadas J. Sanghvi College of Engineering (CGPA: 9.16). I build backend systems using **Spring Boot**, **Node.js**, and **MySQL**.
+### Backend & Cloud Engineer
 
-- 🛠️ **What I do:** Build REST APIs, handle JWT authentication, and manage data with SQL/NoSQL.
-- 🚀 **Learning:** Moving into **AWS** and **CI/CD** to automate my deployments.
-- 🏗️ **Interest:** Exploring **System Design** to build better, scalable apps.
-- ⚡ **Competitive Programming:** 400+ LeetCode problems solved & 2-star CodeChef.
+Final-year Computer Engineering student at Dwarkadas J. Sanghvi College of Engineering (CGPA: 9.12), graduating 2027. I build backend systems and cloud infrastructure with **Spring Boot**, **Node.js**, **Redis**, and **AWS**.
+
+- **Ex-intern @ Orb AI:** built a Redis/BullMQ batched event ingestion pipeline achieving a **9.6x p99 latency improvement** at 1M-row scale; deployed the full app on AWS (EC2/RDS/VPC)
+- **What I do:** backend infra, cloud engineering, distributed systems, REST APIs, Infrastructure as Code
+- **Competitive programming:** 459+ LeetCode problems solved (~1600 rating)
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 | Type | Tools |
-| :--- | :--- |
+| --- | --- |
 | **Backend** | Java (Spring Boot), Node.js, Express.js |
-| **Frontend** | React, JavaScript, Tailwind CSS |
-| **Databases** | MySQL, MongoDB |
-| **Tools** | Docker, Git, Linux, Postman, Maven |
+| **Cloud / Infra** | AWS (EC2, RDS, S3, CloudFront, VPC, IAM), Terraform, Docker |
+| **Data / Messaging** | PostgreSQL, MongoDB, Redis, BullMQ, RabbitMQ |
+| **Tools** | Git, Linux, Postman, Maven |
 
 ---
 
-### 📂 Top Projects
+### Top Projects
 
-* **JWT Auth Microservice:** Standalone security service using Spring Boot and JJWT. Handles login, registration, and token validation.
-* **LegalAssist Chatbot:** Real-time Indian Law chatbot built with React and TypeScript. 
-* **CLI Attendance Tracker:** Python-based tool using MySQL for student and subject management.
+- **[Mint](https://github.com/Dhiren9939/Mint)**: Spring Boot/Java storage service with S3 presigned uploads, dual-origin CloudFront, pessimistic locking, a three-tier Redis/Bucket4j rate limiter, and a full Terraform deployment.
+- **[VaultBox](https://github.com/Dhiren9939/VaultBox)**: Express/Node/MongoDB secrets manager with client-side AES-256-GCM encryption, Argon2id, and Shamir's Secret Sharing (3-of-n) recovery
+- **Custom Domain Email Routing**: AWS SES/Lambda/Route53 pipeline with SPF/DKIM/DMARC
 
 ---
-📫 **Connnections:** 
-- Email: [dhiren.nmf.1@gmail.com](mailto:dhiren.nmf.1@gmail.com)
-- LinkedIn: https://www.linkedin.com/in/dhiren-mandaliya-833328300/
-- Leetcode: https://leetcode.com/u/dhiren9939/
-- Codeforces: https://codeforces.com/profile/dhiren.nmf.1/
-- CodeChef: https://www.codechef.com/users/dhiren9939/
+
+**Connect:**
+
+- Portfolio: <https://dhiren.xyz>
+- LinkedIn: [in/dhiren9939](https://www.linkedin.com/in/dhiren9939/)
+- LeetCode: <https://leetcode.com/u/dhiren9939/>
+- Email: dhiren.nmf.1@gmail.com
